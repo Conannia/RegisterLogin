@@ -3,32 +3,44 @@
   "WorkspaceRootPath": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE02862B-1EAF-47C6-9C31-BA272FBC0302}|AuthSystem\\AuthSystem.csproj|d:\\nurul file\\test kazoku\\registerlogin\\authsystem\\authsystem\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE02862B-1EAF-47C6-9C31-BA272FBC0302}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{AE02862B-1EAF-47C6-9C31-BA272FBC0302}|AuthSystem\\AuthSystem.csproj|d:\\nurul file\\test kazoku\\registerlogin\\authsystem\\authsystem\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AE02862B-1EAF-47C6-9C31-BA272FBC0302}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE02862B-1EAF-47C6-9C31-BA272FBC0302}|AuthSystem\\AuthSystem.csproj|d:\\nurul file\\test kazoku\\registerlogin\\authsystem\\authsystem\\authsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AE02862B-1EAF-47C6-9C31-BA272FBC0302}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\authsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE02862B-1EAF-47C6-9C31-BA272FBC0302}|AuthSystem\\AuthSystem.csproj|d:\\nurul file\\test kazoku\\registerlogin\\authsystem\\authsystem\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE02862B-1EAF-47C6-9C31-BA272FBC0302}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE02862B-1EAF-47C6-9C31-BA272FBC0302}|AuthSystem\\AuthSystem.csproj|d:\\nurul file\\test kazoku\\registerlogin\\authsystem\\authsystem\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE02862B-1EAF-47C6-9C31-BA272FBC0302}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE02862B-1EAF-47C6-9C31-BA272FBC0302}|AuthSystem\\AuthSystem.csproj|d:\\nurul file\\test kazoku\\registerlogin\\authsystem\\authsystem\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE02862B-1EAF-47C6-9C31-BA272FBC0302}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE02862B-1EAF-47C6-9C31-BA272FBC0302}|AuthSystem\\AuthSystem.csproj|d:\\nurul file\\test kazoku\\registerlogin\\authsystem\\authsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{AE02862B-1EAF-47C6-9C31-BA272FBC0302}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{AE02862B-1EAF-47C6-9C31-BA272FBC0302}|AuthSystem\\AuthSystem.csproj|d:\\nurul file\\test kazoku\\registerlogin\\authsystem\\authsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE02862B-1EAF-47C6-9C31-BA272FBC0302}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE02862B-1EAF-47C6-9C31-BA272FBC0302}|AuthSystem\\AuthSystem.csproj|d:\\nurul file\\test kazoku\\registerlogin\\authsystem\\authsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{AE02862B-1EAF-47C6-9C31-BA272FBC0302}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE02862B-1EAF-47C6-9C31-BA272FBC0302}|AuthSystem\\AuthSystem.csproj|d:\\nurul file\\test kazoku\\registerlogin\\authsystem\\authsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE02862B-1EAF-47C6-9C31-BA272FBC0302}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE02862B-1EAF-47C6-9C31-BA272FBC0302}|AuthSystem\\AuthSystem.csproj|d:\\nurul file\\test kazoku\\registerlogin\\authsystem\\authsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE02862B-1EAF-47C6-9C31-BA272FBC0302}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE02862B-1EAF-47C6-9C31-BA272FBC0302}|AuthSystem\\AuthSystem.csproj|d:\\nurul file\\test kazoku\\registerlogin\\authsystem\\authsystem\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE02862B-1EAF-47C6-9C31-BA272FBC0302}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE02862B-1EAF-47C6-9C31-BA272FBC0302}|AuthSystem\\AuthSystem.csproj|d:\\nurul file\\test kazoku\\registerlogin\\authsystem\\authsystem\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE02862B-1EAF-47C6-9C31-BA272FBC0302}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE02862B-1EAF-47C6-9C31-BA272FBC0302}|AuthSystem\\AuthSystem.csproj|d:\\nurul file\\test kazoku\\registerlogin\\authsystem\\authsystem\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AE02862B-1EAF-47C6-9C31-BA272FBC0302}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE02862B-1EAF-47C6-9C31-BA272FBC0302}|AuthSystem\\AuthSystem.csproj|d:\\nurul file\\test kazoku\\registerlogin\\authsystem\\authsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE02862B-1EAF-47C6-9C31-BA272FBC0302}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE02862B-1EAF-47C6-9C31-BA272FBC0302}|AuthSystem\\AuthSystem.csproj|d:\\nurul file\\test kazoku\\registerlogin\\authsystem\\authsystem\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -61,14 +73,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{AE02862B-1EAF-47C6-9C31-BA272FBC0302}|AuthSystem\\AuthSystem.csproj|d:\\nurul file\\test kazoku\\registerlogin\\authsystem\\authsystem\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{AE02862B-1EAF-47C6-9C31-BA272FBC0302}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE02862B-1EAF-47C6-9C31-BA272FBC0302}|AuthSystem\\AuthSystem.csproj|d:\\nurul file\\test kazoku\\registerlogin\\authsystem\\authsystem\\authsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{AE02862B-1EAF-47C6-9C31-BA272FBC0302}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\authsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE02862B-1EAF-47C6-9C31-BA272FBC0302}|AuthSystem\\AuthSystem.csproj|d:\\nurul file\\test kazoku\\registerlogin\\authsystem\\authsystem\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{AE02862B-1EAF-47C6-9C31-BA272FBC0302}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -98,72 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Login.cshtml.cs",
-              "DocumentMoniker": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "RelativeDocumentMoniker": "AuthSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "ToolTip": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "RelativeToolTip": "AuthSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAYwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T03:13:09.164Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_LoginPartial.cshtml",
-              "DocumentMoniker": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeDocumentMoniker": "AuthSystem\\Views\\Shared\\_LoginPartial.cshtml",
-              "ToolTip": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\Views\\Shared\\_LoginPartial.cshtml",
-              "RelativeToolTip": "AuthSystem\\Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-03T03:01:32.984Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\appsettings.json",
-              "RelativeDocumentMoniker": "AuthSystem\\appsettings.json",
-              "ToolTip": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\appsettings.json",
-              "RelativeToolTip": "AuthSystem\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA+AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-03T02:36:31.796Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\Program.cs",
-              "RelativeDocumentMoniker": "AuthSystem\\Program.cs",
-              "ToolTip": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\Program.cs",
-              "RelativeToolTip": "AuthSystem\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T02:35:51.254Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AuthDbContext.cs",
-              "DocumentMoniker": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\Areas\\Identity\\Data\\AuthDbContext.cs",
-              "RelativeDocumentMoniker": "AuthSystem\\Areas\\Identity\\Data\\AuthDbContext.cs",
-              "ToolTip": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\Areas\\Identity\\Data\\AuthDbContext.cs",
-              "RelativeToolTip": "AuthSystem\\Areas\\Identity\\Data\\AuthDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T02:34:44.968Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "AplicationUser.cs",
               "DocumentMoniker": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\Areas\\Identity\\Data\\AplicationUser.cs",
               "RelativeDocumentMoniker": "AuthSystem\\Areas\\Identity\\Data\\AplicationUser.cs",
@@ -176,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "site.css",
               "DocumentMoniker": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "AuthSystem\\wwwroot\\css\\site.css",
@@ -189,111 +128,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Login.cshtml",
               "DocumentMoniker": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "AuthSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "ToolTip": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
               "RelativeToolTip": "AuthSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
-              "ViewState": "AQIAADUAAAAAAAAAAAAAAEwAAAANAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABIAAABRAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-03T02:17:19.501Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "AuthSystem\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "AuthSystem\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAtwBUAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-03T03:00:18.834Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "AuthSystem\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "AuthSystem\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-03T02:27:34.379Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Register.cshtml.cs",
               "DocumentMoniker": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "RelativeDocumentMoniker": "AuthSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "ToolTip": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
               "RelativeToolTip": "AuthSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
-              "ViewState": "AQIAAHAAAAAAAAAAAAApwH4AAAAvAAAA",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAUwIIAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-03T02:46:51.02Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "AuthSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ToolTip": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "RelativeToolTip": "AuthSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABGAAAA",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AuthSystem\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AuthSystem\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-03T02:19:09.729Z",
+              "WhenOpened": "2024-08-03T02:27:34.379Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "20240803024313_Initial Create.cs",
-              "DocumentMoniker": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\Migrations\\20240803024313_Initial Create.cs",
-              "RelativeDocumentMoniker": "AuthSystem\\Migrations\\20240803024313_Initial Create.cs",
-              "ToolTip": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\Migrations\\20240803024313_Initial Create.cs",
-              "RelativeToolTip": "AuthSystem\\Migrations\\20240803024313_Initial Create.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "AuthSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "AuthSystem\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAAwFkAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-03T02:43:13.975Z",
+              "WhenOpened": "2024-08-03T03:13:09.164Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "_AuthLayout.cshtml",
-              "DocumentMoniker": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\_AuthLayout.cshtml",
-              "RelativeDocumentMoniker": "AuthSystem\\Areas\\Identity\\Pages\\_AuthLayout.cshtml",
-              "ToolTip": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\_AuthLayout.cshtml",
-              "RelativeToolTip": "AuthSystem\\Areas\\Identity\\Pages\\_AuthLayout.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-03T02:15:45.415Z",
+              "DocumentIndex": 1,
+              "Title": "AuthSystem",
+              "DocumentMoniker": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\AuthSystem.csproj",
+              "RelativeDocumentMoniker": "AuthSystem\\AuthSystem.csproj",
+              "ToolTip": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\AuthSystem.csproj",
+              "RelativeToolTip": "AuthSystem\\AuthSystem.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-03T01:49:25.208Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "AuthSystem\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\Properties\\launchSettings.json",
-              "RelativeToolTip": "AuthSystem\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBUAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-03T02:28:20.444Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 0,
               "Title": "ScaffoldingReadMe.txt",
               "DocumentMoniker": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "AuthSystem\\ScaffoldingReadMe.txt",
@@ -306,15 +206,132 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthDbContext.cs",
+              "DocumentMoniker": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\Areas\\Identity\\Data\\AuthDbContext.cs",
+              "RelativeDocumentMoniker": "AuthSystem\\Areas\\Identity\\Data\\AuthDbContext.cs",
+              "ToolTip": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\Areas\\Identity\\Data\\AuthDbContext.cs",
+              "RelativeToolTip": "AuthSystem\\Areas\\Identity\\Data\\AuthDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T02:34:44.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AuthSystem\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AuthSystem\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T03:25:19.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\Program.cs",
+              "RelativeDocumentMoniker": "AuthSystem\\Program.cs",
+              "ToolTip": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\Program.cs",
+              "RelativeToolTip": "AuthSystem\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T02:35:51.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthSystem\\appsettings.json",
+              "ToolTip": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\appsettings.json",
+              "RelativeToolTip": "AuthSystem\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-03T02:36:31.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "AuthSystem\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "AuthSystem\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-03T03:01:32.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AuthSystem\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AuthSystem\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACIAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-03T03:00:18.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "AuthSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "AuthSystem\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-03T02:19:09.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240803024313_Initial Create.cs",
+              "DocumentMoniker": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\Migrations\\20240803024313_Initial Create.cs",
+              "RelativeDocumentMoniker": "AuthSystem\\Migrations\\20240803024313_Initial Create.cs",
+              "ToolTip": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\Migrations\\20240803024313_Initial Create.cs",
+              "RelativeToolTip": "AuthSystem\\Migrations\\20240803024313_Initial Create.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T02:43:13.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "AuthSystem",
-              "DocumentMoniker": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\AuthSystem.csproj",
-              "RelativeDocumentMoniker": "AuthSystem\\AuthSystem.csproj",
-              "ToolTip": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\AuthSystem.csproj",
-              "RelativeToolTip": "AuthSystem\\AuthSystem.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-03T01:49:25.208Z",
+              "Title": "_AuthLayout.cshtml",
+              "DocumentMoniker": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\_AuthLayout.cshtml",
+              "RelativeDocumentMoniker": "AuthSystem\\Areas\\Identity\\Pages\\_AuthLayout.cshtml",
+              "ToolTip": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\Areas\\Identity\\Pages\\_AuthLayout.cshtml",
+              "RelativeToolTip": "AuthSystem\\Areas\\Identity\\Pages\\_AuthLayout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-03T02:15:45.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AuthSystem\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AuthSystem\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-03T02:28:20.444Z",
               "EditorCaption": ""
             }
           ]

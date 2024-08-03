@@ -17,5 +17,9 @@ public class AplicationUser : IdentityUser
     [PersonalData]
     [Column(TypeName = "nvarchar(100)")]
     public string LastName { get; set; }
+
+    [PersonalData]
+    [Column(TypeName = "bit")] // Perbaiki tipe data menjadi 'bit'
+    public bool TermsAccepted { get; set; }
 }
 

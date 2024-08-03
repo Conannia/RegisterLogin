@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE02862B-1EAF-47C6-9C31-BA272FBC0302}|AuthSystem\\AuthSystem.csproj|d:\\nurul file\\test kazoku\\registerlogin\\authsystem\\authsystem\\authsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AE02862B-1EAF-47C6-9C31-BA272FBC0302}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\authsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE02862B-1EAF-47C6-9C31-BA272FBC0302}|AuthSystem\\AuthSystem.csproj|d:\\nurul file\\test kazoku\\registerlogin\\authsystem\\authsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE02862B-1EAF-47C6-9C31-BA272FBC0302}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE02862B-1EAF-47C6-9C31-BA272FBC0302}|AuthSystem\\AuthSystem.csproj|d:\\nurul file\\test kazoku\\registerlogin\\authsystem\\authsystem\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AE02862B-1EAF-47C6-9C31-BA272FBC0302}|AuthSystem\\AuthSystem.csproj|solutionrelative:authsystem\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 839,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,6 +39,45 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\Program.cs",
+              "RelativeDocumentMoniker": "AuthSystem\\Program.cs",
+              "ToolTip": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\Program.cs",
+              "RelativeToolTip": "AuthSystem\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T02:03:00.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "AuthSystem\\ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "AuthSystem\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-03T02:01:31.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthSystem",
+              "DocumentMoniker": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\AuthSystem.csproj",
+              "RelativeDocumentMoniker": "AuthSystem\\AuthSystem.csproj",
+              "ToolTip": "D:\\Nurul FILE\\Test Kazoku\\RegisterLogin\\AuthSystem\\AuthSystem\\AuthSystem.csproj",
+              "RelativeToolTip": "AuthSystem\\AuthSystem.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-03T01:49:25.208Z",
+              "EditorCaption": ""
             }
           ]
         }
